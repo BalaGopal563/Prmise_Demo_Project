@@ -1,0 +1,63 @@
+2020-09-07 20:54:32,872 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Starting Test Case:Add_Promise<a name=**Add_Promise></a>**
+2020-09-07 20:54:32,872 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Starting Test Case:Validation_Blank_Fields<a name=**Validation_Blank_Fields></a>**
+2020-09-07 20:54:32,872 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Starting Test Case:Logout<a name=**Logout></a>**
+2020-09-07 20:54:32,872 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Starting Test Case:Login_Functionality<a name=**Login_Functionality></a>**
+2020-09-07 20:54:32,872 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Starting Test Case:Verify_Promise_is_added<a name=**Verify_Promise_is_added></a>**
+2020-09-07 20:55:27,440 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Verifying home page loaded 
+2020-09-07 20:55:27,443 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Verifying home page loaded 
+2020-09-07 20:55:27,440 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Verifying home page loaded 
+2020-09-07 20:55:27,443 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Verifying home page loaded 
+2020-09-07 20:55:27,443 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Verifying home page loaded 
+2020-09-07 20:55:28,115 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (0bacfd0fcdb1b73ec52faef43c829207)] -> xpath: //img[@title='Clarion Promise']] is present on current Page
+2020-09-07 20:55:28,120 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (410ab636d6b613e94cf2dfb9acedab2d)] -> xpath: //img[@title='Clarion Promise']] is present on current Page
+2020-09-07 20:55:28,124 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (11ff835e7e8e2bc36c62512a4d5f0068)] -> xpath: //img[@title='Clarion Promise']] is present on current Page
+2020-09-07 20:55:28,127 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (37f1ed10bdbd1258de75b558575277a7)] -> xpath: //img[@title='Clarion Promise']] is present on current Page
+2020-09-07 20:55:28,137 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:28,138 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Verify_Promise_is_added Login Page is sucessfully loaded
+2020-09-07 20:55:28,138 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Verify_Promise_is_added Login Page factory  Initiated 
+2020-09-07 20:55:28,140 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (61865e0dec8220f1cc5bff11563bf30d)] -> xpath: //img[@title='Clarion Promise']] is present on current Page
+2020-09-07 20:55:28,149 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:28,151 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Validation_Blank_Fields Login Page is sucessfully loaded
+2020-09-07 20:55:28,151 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Validation_Blank_Fields Login Page factory  Initiated 
+2020-09-07 20:55:28,155 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:28,156 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Login_Functionality Login Page is sucessfully loaded
+2020-09-07 20:55:28,156 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:28,156 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Login_Functionality Login Page factory  Initiated 
+2020-09-07 20:55:28,157 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Add_Promise Login Page is sucessfully loaded
+2020-09-07 20:55:28,158 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Add_Promise Login Page factory  Initiated 
+2020-09-07 20:55:28,167 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:28,169 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Logout Login Page is sucessfully loaded
+2020-09-07 20:55:28,169 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Logout Login Page factory  Initiated 
+2020-09-07 20:55:31,457 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Element Login Button is  clicked on UI
+2020-09-07 20:55:32,244 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (410ab636d6b613e94cf2dfb9acedab2d)] -> xpath: //font[@color='red']] is present on current Page
+2020-09-07 20:55:32,562 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - Element with text  Invalid Username/password is Present
+2020-09-07 20:55:32,825 [pool-1-thread-4] INFO  com.project.utill.LoggingClass - The test result for Validation_Blank_Fields is true
+2020-09-07 20:55:35,685 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Element Login Button is  clicked on UI
+2020-09-07 20:55:35,685 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element Login Button is  clicked on UI
+2020-09-07 20:55:36,094 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element Login Button is  clicked on UI
+2020-09-07 20:55:36,444 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (37f1ed10bdbd1258de75b558575277a7)] -> xpath: //*[@class='lightgrey']/b[text()='HOME']] is present on current Page
+2020-09-07 20:55:36,536 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (37f1ed10bdbd1258de75b558575277a7)] -> xpath: //*[@class='lightgrey']/b[text()='LOGOUT']] is present on current Page
+2020-09-07 20:55:36,553 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - **** Successfully Logged In ****
+2020-09-07 20:55:36,556 [pool-1-thread-2] INFO  com.project.utill.LoggingClass - The test result for Login_Functionality is true
+2020-09-07 20:55:36,825 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (61865e0dec8220f1cc5bff11563bf30d)] -> xpath: //*[@class='lightgrey']/b[text()='HOME']] is present on current Page
+2020-09-07 20:55:37,037 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element Login Button is  clicked on UI
+2020-09-07 20:55:37,056 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (61865e0dec8220f1cc5bff11563bf30d)] -> xpath: //*[@class='lightgrey']/b[text()='LOGOUT']] is present on current Page
+2020-09-07 20:55:37,074 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - **** Successfully Logged In ****
+2020-09-07 20:55:37,374 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element Log Promise is  clicked on UI
+2020-09-07 20:55:37,844 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element Logout button is  clicked on UI
+2020-09-07 20:55:37,844 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element Log Promise is  clicked on UI
+2020-09-07 20:55:37,918 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (61865e0dec8220f1cc5bff11563bf30d)] -> xpath: //input[@name='txtUsername']] is present on current Page
+2020-09-07 20:55:37,928 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - **** Login Page Loaded *****
+2020-09-07 20:55:37,931 [pool-1-thread-3] INFO  com.project.utill.LoggingClass - The test result for Logout is true
+2020-09-07 20:55:38,150 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (0bacfd0fcdb1b73ec52faef43c829207)] -> xpath: //select[@name='cboEmp']] is present on current Page
+2020-09-07 20:55:38,313 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (11ff835e7e8e2bc36c62512a4d5f0068)] -> xpath: //select[@name='cboEmp']] is present on current Page
+2020-09-07 20:55:40,718 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element Submit Button is  clicked on UI
+2020-09-07 20:55:40,718 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element Submit Button is  clicked on UI
+2020-09-07 20:55:41,379 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (0bacfd0fcdb1b73ec52faef43c829207)] -> xpath: //select[@name='cboEmp']] is present on current Page
+2020-09-07 20:55:41,417 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element [[ChromeDriver: chrome on WINDOWS (11ff835e7e8e2bc36c62512a4d5f0068)] -> xpath: //font[@color='#FF0000']] is present on current Page
+2020-09-07 20:55:41,465 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - Element with text  Promise added successfully is Present
+2020-09-07 20:55:41,469 [pool-1-thread-1] INFO  com.project.utill.LoggingClass - The test result for Add_Promise is true
+2020-09-07 20:55:43,100 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element Search Button is  clicked on UI
+2020-09-07 20:55:43,142 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Element  //*[text()='TEST PROMISE FOR CLARION Time: 2020.09.07.20.55.37'] is Present
+2020-09-07 20:55:43,143 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - Record Found
+2020-09-07 20:55:43,144 [pool-1-thread-5] INFO  com.project.utill.LoggingClass - The test result for Verify_Promise_is_added is true

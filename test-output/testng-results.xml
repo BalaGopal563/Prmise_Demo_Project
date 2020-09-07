@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UATPRomiseApplication" duration-ms="72778" started-at="2020-09-07T15:24:32Z" finished-at="2020-09-07T15:25:45Z">
+    <groups>
+    </groups>
+    <test name="UATPRomiseApplication" duration-ms="72778" started-at="2020-09-07T15:24:32Z" finished-at="2020-09-07T15:25:45Z">
+      <class name="Practice.Automation.Add_Promise">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:Practice.Automation.Add_Promise@2d6eabae]" name="setup" is-config="true" duration-ms="36818" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Practice.Automation.Add_Promise.simpleTestClass()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTestClass()[pri:0, instance:Practice.Automation.Add_Promise@2d6eabae]" name="simpleTestClass" duration-ms="31796" started-at="2020-09-07T20:55:09Z" finished-at="2020-09-07T20:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTestClass -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Practice.Automation.Add_Promise@2d6eabae]" name="tearDown" is-config="true" duration-ms="326" started-at="2020-09-07T20:55:41Z" finished-at="2020-09-07T20:55:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=simpleTestClass status=SUCCESS method=Add_Promise.simpleTestClass()[pri:0, instance:Practice.Automation.Add_Promise@2d6eabae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice.Automation.Add_Promise -->
+      <class name="Practice.Automation.Login_Functionality">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:Practice.Automation.Login_Functionality@4e7dc304]" name="setup" is-config="true" duration-ms="36819" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Practice.Automation.Login_Functionality.simpleTestClass()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTestClass()[pri:0, instance:Practice.Automation.Login_Functionality@4e7dc304]" name="simpleTestClass" duration-ms="26881" started-at="2020-09-07T20:55:09Z" finished-at="2020-09-07T20:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTestClass -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Practice.Automation.Login_Functionality@4e7dc304]" name="tearDown" is-config="true" duration-ms="2247" started-at="2020-09-07T20:55:36Z" finished-at="2020-09-07T20:55:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=simpleTestClass status=SUCCESS method=Login_Functionality.simpleTestClass()[pri:0, instance:Practice.Automation.Login_Functionality@4e7dc304] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice.Automation.Login_Functionality -->
+      <class name="Practice.Automation.Validation_Blank_Fields">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:Practice.Automation.Validation_Blank_Fields@64729b1e]" name="setup" is-config="true" duration-ms="36818" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Practice.Automation.Validation_Blank_Fields.simpleTestClass()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTestClass()[pri:0, instance:Practice.Automation.Validation_Blank_Fields@64729b1e]" name="simpleTestClass" duration-ms="23151" started-at="2020-09-07T20:55:09Z" finished-at="2020-09-07T20:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTestClass -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Practice.Automation.Validation_Blank_Fields@64729b1e]" name="tearDown" is-config="true" duration-ms="5999" started-at="2020-09-07T20:55:32Z" finished-at="2020-09-07T20:55:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=simpleTestClass status=SUCCESS method=Validation_Blank_Fields.simpleTestClass()[pri:0, instance:Practice.Automation.Validation_Blank_Fields@64729b1e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice.Automation.Validation_Blank_Fields -->
+      <class name="Practice.Automation.Verify_Promise_is_added">
+        <test-method status="PASS" signature="reporting()[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="reporting" is-config="true" duration-ms="27" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporting -->
+        <test-method status="PASS" signature="classSetUp()[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="classSetUp" is-config="true" duration-ms="3" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="setup" is-config="true" duration-ms="36817" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Practice.Automation.Verify_Promise_is_added.simpleTestClass()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTestClass()[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="simpleTestClass" duration-ms="33468" started-at="2020-09-07T20:55:09Z" finished-at="2020-09-07T20:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTestClass -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="tearDown" is-config="true" duration-ms="2459" started-at="2020-09-07T20:55:43Z" finished-at="2020-09-07T20:55:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=simpleTestClass status=SUCCESS method=Verify_Promise_is_added.simpleTestClass()[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearsuite(org.testng.ITestContext)[pri:0, instance:Practice.Automation.Verify_Promise_is_added@1e6d1014]" name="tearsuite" is-config="true" duration-ms="515" started-at="2020-09-07T20:55:45Z" finished-at="2020-09-07T20:55:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3d36e4cd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearsuite -->
+      </class> <!-- Practice.Automation.Verify_Promise_is_added -->
+      <class name="Practice.Automation.Logout">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:Practice.Automation.Logout@10bbd20a]" name="setup" is-config="true" duration-ms="36828" started-at="2020-09-07T20:54:32Z" finished-at="2020-09-07T20:55:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Practice.Automation.Logout.simpleTestClass()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="simpleTestClass()[pri:0, instance:Practice.Automation.Logout@10bbd20a]" name="simpleTestClass" duration-ms="28248" started-at="2020-09-07T20:55:09Z" finished-at="2020-09-07T20:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTestClass -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Practice.Automation.Logout@10bbd20a]" name="tearDown" is-config="true" duration-ms="928" started-at="2020-09-07T20:55:37Z" finished-at="2020-09-07T20:55:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=simpleTestClass status=SUCCESS method=Logout.simpleTestClass()[pri:0, instance:Practice.Automation.Logout@10bbd20a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice.Automation.Logout -->
+    </test> <!-- UATPRomiseApplication -->
+  </suite> <!-- UATPRomiseApplication -->
+</testng-results>

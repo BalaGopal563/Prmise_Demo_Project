@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Practice.Automation.Verify_Promise_is_added">
+        <methods>
+          <include name="tearDown"/>
+          <include name="simpleTestClass"/>
+          <include name="classSetUp"/>
+          <include name="setup"/>
+          <include name="tearsuite"/>
+          <include name="reporting"/>
+        </methods>
+      </class> <!-- Practice.Automation.Verify_Promise_is_added -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
